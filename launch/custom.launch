@@ -1,0 +1,3 @@
+<launch>
+    <node pkg="custom" type="talker" name="talker" output="screen"/>
+</launch>
