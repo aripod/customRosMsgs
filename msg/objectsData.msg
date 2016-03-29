@@ -1,4 +1,3 @@
-Header header
 uint8 id
 string model
 float32 x
